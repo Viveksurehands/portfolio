@@ -3,9 +3,9 @@ import Reveal from "./Reveal";
 const ITEMS = [
   {
     frame: "24A",
-    period: "2023 — 2027",
+    period: "2026 — 2029",
     title: "B.E./B.Tech, Computer Science Engineering",
-    org: "Your University Name Here",
+    org: "Marri laxam Reddy Institute of Technology",
     desc: "Second-year coursework in data structures, algorithms, and systems fundamentals, alongside independent projects outside class.",
     tag: "IN PROGRESS",
   },
