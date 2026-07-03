@@ -21,9 +21,24 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://portfolio-two-lac-33.vercel.app"),
   title: "Vivek Binkam — Developer & Visual Designer",
   description:
     "Portfolio of Vivek Binkam, CSE student, developer, and editorial photographer/designer.",
+  openGraph: {
+    title: "Vivek Binkam — Developer & Visual Designer",
+    description:
+      "Portfolio of Vivek Binkam, CSE student, developer, and editorial photographer/designer.",
+    url: "https://portfolio-two-lac-33.vercel.app",
+    siteName: "Vivek Binkam",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Vivek Binkam — Developer & Visual Designer",
+    description:
+      "Portfolio of Vivek Binkam, CSE student, developer, and editorial photographer/designer.",
+  },
 };
 
 export default function RootLayout({
