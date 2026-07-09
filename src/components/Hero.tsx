@@ -17,7 +17,7 @@ export default function Hero() {
 
       <div className="max-w-6xl mx-auto w-full">
         <p className="font-mono text-[11px] md:text-xs tracking-[0.3em] text-[var(--accent)] mb-6">
-          {"// CSE'27 · DEVELOPER · VISUAL DESIGNER"}
+          {"// CSE'29 · DEVELOPER · VISUAL DESIGNER"}
         </p>
 
         <h1 className="font-display leading-[0.95] text-[15vw] md:text-[8.5vw] lg:text-[7.5rem] tracking-tight text-[var(--text)]">
